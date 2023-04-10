@@ -1,0 +1,1 @@
+[![pipeline status](https://gitlab.com/dmadhav/Django-Django-REST-Framework-and-Docker/badges/master/pipeline.svg)](https://gitlab.com/dmadhav/Django-Django-REST-Framework-and-Docker/commits/master)
