@@ -55,6 +55,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework', # our
     'movies', # our
+    "drf_yasg",
 ]
 
 MIDDLEWARE = [
@@ -161,3 +162,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # app/drf_project/settings.py
 
 AUTH_USER_MODEL = 'movies.CustomUser'
+
+SWAGGER_SETTINGS = {
+    "USE_SESSION_AUTH": False
+}
