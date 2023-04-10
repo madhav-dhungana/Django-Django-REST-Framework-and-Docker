@@ -1,1 +1,1 @@
-[![pipeline status](https://gitlab.com/dmadhav/Django-Django-REST-Framework-and-Docker/badges/master/pipeline.svg)](https://gitlab.com/dmadhav/Django-Django-REST-Framework-and-Docker/commits/master)
+[![pipeline status](https://gitlab.com/dmadhav/django-django-rest-framework-and-docker/badges/master/pipeline.svg)](https://gitlab.com/dmadhav/django-django-rest-framework-and-docker/commits/master)
